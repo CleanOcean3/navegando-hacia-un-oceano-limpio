@@ -1,2 +1,2 @@
-# navegeando-hacia-un-oceano-limpio
+# navegando-hacia-un-oceano-limpio
 Construyendo un futuro azul
